@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>if_cash_register_17219.png</file>
+        <file>if_document-open_118911.png</file>
+        <file>if_list-add_118777.png</file>
+        <file>if_view-refresh_118801.png</file>
+    </qresource>
+</RCC>
